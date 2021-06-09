@@ -1,6 +1,6 @@
 # 响应式
 
-`n-grid` 的 `cols` `x-gap` `y-gap`，`n-grid-item` 的 `span` `offset` 支持响应式参数配置。
+`n-grid` 的 `cols` `x-gap` `y-gap`，`n-grid-item` 的 `span` `offset` 支持响应式参数配置。
 
 `n-grid` 具有两种响应式模式，内部的 `n-grid-item` 遵从父级的模式。
 

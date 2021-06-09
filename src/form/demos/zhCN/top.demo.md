@@ -1,6 +1,6 @@
 # 标签上置
 
- 使用 `n-grid` 和 `n-form-item-gi`（grid item）轻松写表单。
+ 使用 `n-grid` 和 `n-form-item-gi`（grid item）轻松写表单。
 
 ```html
 <n-radio-group

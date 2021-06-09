@@ -1,6 +1,6 @@
 # Responsive
 
-`n-grid`'s `cols`, `x-gap`, `y-gap` and `n-grid-item`'s `span`, `offset` support responsive config.
+`n-grid`'s `cols`, `x-gap`, `y-gap` and `n-grid-item`'s `span`, `offset` support responsive config.
 
 `n-grid` has 2 responsive mode. The inner `n-grid-item` follows its parent's mode.
 
