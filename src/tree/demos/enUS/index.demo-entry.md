@@ -2,7 +2,7 @@
 
 To be honest, I'm not good at biology. I can figure out few kinds of trees.
 
-What's more, not only biology, I forget balanced tree everytime after I revise it shortly.
+What's more, not only biology, I forget balanced tree every time after I revise it shortly.
 
 ## Demos
 

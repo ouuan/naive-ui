@@ -1,6 +1,6 @@
 # Size
 
-Select has different size.
+Select has different sizes.
 
 ```html
 <n-space vertical>

@@ -1,6 +1,6 @@
 # Change File on Finish
 
-You can change file's property when upload finishes.
+You can change the file's property when the upload finishes.
 
 ```html
 <n-upload

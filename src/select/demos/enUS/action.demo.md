@@ -1,6 +1,6 @@
 # Action Slot
 
-Is there anybody needs action slot on select menu?
+Is there anybody who needs an action slot on the select menu?
 
 ```html
 <n-select v-model:value="value" :options="options">

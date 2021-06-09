@@ -1,6 +1,6 @@
 # Rate
 
-If you not very confident, be careful about changing star's color. That will be a disaster.
+If you not very confident, be careful about changing stars' color. That will be a disaster.
 
 ## Demos
 

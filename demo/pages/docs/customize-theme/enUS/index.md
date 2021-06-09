@@ -2,9 +2,9 @@
 
 # Customizing Theme
 
-Naive-ui provide `n-config-provider` to customize the theme.
+Naive-ui provides `n-config-provider` to customize the theme.
 
-By default all the component is light themed, without any configuration.
+By default, all the component is light-themed, without any configuration.
 
 ## Use Dark Theme
 
@@ -78,10 +78,10 @@ For available vars please follow the type hint of `GlobalThemeOverrides`.
 
 For the following reasons, you may need to set some styles on `document.body`
 
-1. Naive-ui will mount some global style that is unresponsive (to theme, not media query). For example `font-family`. The style works fine by default, however they won't change when theme is changed.
+1. Naive-ui will mount some global style that is unresponsive (to theme, not media query). For example `font-family`. The style works fine by default, however, they won't change when the theme is changed.
 2. `n-config-provider` can't sync global style (for example, body's background color) outside it.
 
-You can use `n-global-style` to sync common global style to the body element. In the following example, `n-global-style` will sync the theme provided by `n-config-provider` to `document.body`.
+You can use `n-global-style` to sync the common global style to the body element. In the following example, `n-global-style` will sync the theme provided by `n-config-provider` to `document.body`.
 
 ```html
 <template>
@@ -94,7 +94,7 @@ You can use `n-global-style` to sync common global style to the body element. In
 
 ## Theme Editor
 
-Naive-ui provides theme editor to help you edit theme and export the corresponding configuration. It can be placed inside `n-config-provider`.
+Naive-ui provides a theme editor to help you edit the theme and export the corresponding configuration. It can be placed inside `n-config-provider`.
 
 The theme editor is not included in global installation (`app.use(naive)`). You need to import it explicitly to use it
 

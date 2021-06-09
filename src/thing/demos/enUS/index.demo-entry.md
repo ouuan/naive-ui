@@ -1,8 +1,8 @@
 # Thing
 
-When you want to describe a thing, use thing. If you find it doesn't fit you demand, write one by yourself.
+When you want to describe a thing, use thing. If you find it doesn't fit your demand, write one by yourself.
 
-I wish there is a way to build all kinds of frequently used layout inside a component. It takes me some time to figure out that the component already exist, the brower itself.
+I wish there is a way to build all kinds of frequently used layouts inside a component. It takes me some time to figure out that the component already exists, the browser itself.
 
 ## Demos
 

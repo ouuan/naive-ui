@@ -1,6 +1,6 @@
 # Use Preset Card
 
-Modal has some presets, which means you can use props & slots of the preset after set it.
+Modal has some presets, which means you can use props & slots of the preset after setting it.
 
 ```html
 <n-button @click="showModal = true"> Start Me up </n-button>

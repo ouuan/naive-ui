@@ -1,6 +1,6 @@
 # Progress
 
-I have no words to say but there still should be a placeholder to make layout looks spread.
+I have no words to say but there still should be a placeholder to make the layout looks spread.
 
 ## Demos
 

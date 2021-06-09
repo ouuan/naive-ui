@@ -1,8 +1,8 @@
 # Result
 
-Result is for showing result.
+Result is for showing results.
 
-Many thanks to [twemoji](https://github.com/twitter/twemoji) for creating those high quality icons.
+Many thanks to [twemoji](https://github.com/twitter/twemoji) for creating those high-quality icons.
 
 ## Demos
 

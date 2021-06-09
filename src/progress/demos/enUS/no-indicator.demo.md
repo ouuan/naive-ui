@@ -1,6 +1,6 @@
 # No Indicator
 
-If you don't want indicator.
+If you don't want indicators.
 
 ```html
 <n-progress

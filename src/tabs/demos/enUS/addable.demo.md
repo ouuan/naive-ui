@@ -1,6 +1,6 @@
 # Addable
 
-Add some tabs. Only work with `'card'` type.
+Add some tabs. Only work with the `'card'` type.
 
 ```html
 <n-tabs

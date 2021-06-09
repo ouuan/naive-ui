@@ -1,6 +1,6 @@
 # Multiple
 
-Select multiple value in popselect.
+Select multiple values in popselect.
 
 ```html
 <n-popselect v-model:value="value" multiple :options="options">

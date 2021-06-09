@@ -1,6 +1,6 @@
 # Tabs
 
-Switch contents in same area.
+Switch contents in the same area.
 
 ## Demos
 

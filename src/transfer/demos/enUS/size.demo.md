@@ -1,6 +1,6 @@
 # Size
 
-They doesn't look harmonious.
+They don't look harmonious.
 
 ```html
 <n-space vertical>

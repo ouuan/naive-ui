@@ -1,6 +1,6 @@
 # Custom Color
 
-If you are not satisfied with builtin colors.
+If you are not satisfied with built-in colors.
 
 ```html
 <n-config-consumer>

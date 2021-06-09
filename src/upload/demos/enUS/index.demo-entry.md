@@ -1,6 +1,6 @@
 # Upload
 
-If latency doesn't matters, I'd like to use trucks with many hard disks.
+If latency doesn't matter, I'd like to use trucks with many hard disks.
 
 ## Demos
 

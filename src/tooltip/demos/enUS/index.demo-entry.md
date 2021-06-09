@@ -1,6 +1,6 @@
 # Tooltip
 
-It walks like a popover, quacks like a popover but looks a bit different from popover.
+It walks like a popover, quacks like a popover but looks a bit different from the popover.
 
 ## Demos
 

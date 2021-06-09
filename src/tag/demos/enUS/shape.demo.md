@@ -1,6 +1,6 @@
 # Shape
 
-Round tag looks like a capsule.
+A round tag looks like a capsule.
 
 ```html
 <n-space>

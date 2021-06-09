@@ -1,8 +1,8 @@
 # Notification
 
-If something is to be telled to somebody.
+If something is to be told to somebody.
 
-Notification component is always with low piority so I can make a lot of useless animations on it.
+The notification component is always with low priority so I can make a lot of useless animations on it.
 
 <n-space vertical>
 <n-alert title="Prerequisite" type="warning">

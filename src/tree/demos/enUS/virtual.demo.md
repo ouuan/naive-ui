@@ -1,6 +1,6 @@
 # Large Date
 
-Set `virtual-scroll` to use virtual scroll. Note that you should set the height of the tree.
+Set `virtual-scroll` to use the virtual scroll. Note that you should set the height of the tree.
 
 ```html
 <n-tree

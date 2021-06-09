@@ -1,6 +1,6 @@
 # Drag & Drop
 
-Set `draggable` and write bunch of codes to make drag & drop work.
+Set `draggable` and write a bunch of codes to make drag & drop work.
 
 ```html
 <n-tree

@@ -1,6 +1,6 @@
 # Change Content Dynamically
 
-You can change any parts of notifications existed.
+You can change any parts of notifications that existed.
 
 ```html
 <n-space>

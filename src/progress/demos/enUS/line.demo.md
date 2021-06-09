@@ -1,6 +1,6 @@
 # Line
 
-In fact, progress of line type don't need four different styles. However, since UI has designed it, I finally implemented them all. It also support `default`, `info`, `success`, `warning` or `error` status.
+In fact, the progress of line type doesn't need four different styles. However, since UI has designed it, I finally implemented them all. It also supports `default`, `info`, `success`, `warning` or `error` status.
 
 ```html
 <n-space vertical>

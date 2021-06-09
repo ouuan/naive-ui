@@ -1,6 +1,6 @@
 # Spin
 
-It can be called loading, but why it's called loading? Because there is another internal component with less props called loading.
+It can be called loading, but why it's called loading? Because there is another internal component with fewer props called loading.
 
 ## Demos
 

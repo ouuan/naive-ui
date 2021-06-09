@@ -1,6 +1,6 @@
 # Tag
 
-Always it's for showing attribute. Sometimes it's for toggle options.
+Always it's for showing attributes. Sometimes it's for toggle options.
 
 ## Demos
 

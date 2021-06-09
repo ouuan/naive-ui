@@ -1,6 +1,6 @@
 # Mask Closable
 
-Use `mask-closable=false` to make modal not emit the event which may close the modal.
+Use `mask-closable=false` to make the modal not emit the event which may close the modal.
 
 ```html
 <n-button @click="showModal = true"> Start Me up </n-button>

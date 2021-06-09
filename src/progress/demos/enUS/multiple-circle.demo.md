@@ -1,6 +1,6 @@
 # Multiple Circle
 
-You can show multiple circle in a single progress. Note that `circle-gap` and `stroke-width` is relative to 100(the svg's viewbox size is 100).
+You can show multiple circles in a single progress. Note that `circle-gap` and `stroke-width` are relative to 100(the svg's viewbox size is 100).
 
 Maybe your product manager will need it.
 

@@ -1,6 +1,6 @@
 # Basic
 
-Basic example of transfer. If you have tons of data, see next section.
+Basic example of transfer. If you have tons of data, see the next section.
 
 ```html
 <n-transfer ref="transfer" v-model:value="value" :options="options" />

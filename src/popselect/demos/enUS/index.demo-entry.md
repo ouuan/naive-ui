@@ -1,6 +1,6 @@
 # Popselect
 
-If you want select some options but don't want a picker, you can use popselect instead.
+If you want to select some options but don't want a picker, you can use popselect instead.
 
 ## Demos
 

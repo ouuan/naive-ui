@@ -1,6 +1,6 @@
 # Tags
 
-Other naive-ui builtin tags.
+Other naive-ui built-in tags.
 
 ```html
 <n-a>a tag</n-a>

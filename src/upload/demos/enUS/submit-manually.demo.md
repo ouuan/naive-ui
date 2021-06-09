@@ -1,6 +1,6 @@
 # Uncontrolled Manually Submit
 
-You can use `submit` method to submit in uncontrolled manner. Also you can do it in controlled manner in another way.
+You can use `submit` method to submit in an uncontrolled manner. Also, you can do it in a controlled manner in another way.
 
 ```html
 <n-button

@@ -1,6 +1,6 @@
 # Scroll Event
 
-My colleague said he want use scroll status to async load options.
+My colleague said he wants to use scroll status to async load options.
 
 ```html
 <n-select v-model:value="value" :options="options" @scroll="handleScroll" />

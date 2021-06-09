@@ -1,6 +1,6 @@
 # Controlled File List
 
-Example is only a joke.
+The example is only a joke.
 
 ```html
 <n-upload

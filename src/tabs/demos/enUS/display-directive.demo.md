@@ -1,6 +1,6 @@
 # Display Directive
 
-You can set tab-panel's display directive to `if` or `show`. When use show, the tab-panel's content won't be reset after tab changes.
+You can set the tab-panel's display directive to `if` or `show`. When use show, the tab-panel's content won't be reset after tab changes.
 
 ```html
 <n-tabs default-value="show">

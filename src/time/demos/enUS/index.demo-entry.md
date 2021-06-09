@@ -1,6 +1,6 @@
 # Time
 
-Time provide some basic formation for time.
+Time provides some basic formation for time.
 
 ## Demos
 

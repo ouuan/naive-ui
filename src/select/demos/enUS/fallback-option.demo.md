@@ -1,8 +1,8 @@
 # Fallback Option
 
-In some rare cases, you may fill the value but not the corresponding options. For example in async cases, or simply you passed a bad value. If you want to control the way of the value to be displayed, use `fallback-option` prop to control how to create a option using the value.
+In some rare cases, you may fill the value but not the corresponding options. For example in async cases, or simply you passed a bad value. If you want to control the way of the value to be displayed, use `fallback-option` prop to control how to create an option using the value.
 
-If you don't need fallback options, simply set it to `false`. Now only the value appeared in the options will be viewed as a valid value. Invalid values will be cleared in the operations of the component.
+If you don't need fallback options, simply set it to `false`. Now only the value that appeared in the options will be viewed as a valid value. Invalid values will be cleared in the operations of the component.
 
 ```html
 <n-space vertical>
